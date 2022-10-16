@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "вижулка",
+			"path": "."
+		},
+		{
+			"name": "DogaevTimofey",
+			"path": "E:/DogaevTimofey"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DogaevTimofey"
+	}
+}
